@@ -1,7 +1,8 @@
 # Emails-Spam-Classifier
 This is a Binary Classification Problem Statement in which we have to classify the Ham and the Spam emails.
 
-About the Spam Dataset
+## About the Spam Dataset
+
 Here is the introduction of the dataset i will be using for this project.
 
 The dataset used in this project is from Apache SpamAssassin.
